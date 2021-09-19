@@ -4,8 +4,8 @@
 
 *.sketch
 *.fig 
-images
-design
+./images
+./design
 .vscode
 
 # Avoid accidental XD upload if you convert the design file
